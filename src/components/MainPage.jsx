@@ -59,7 +59,7 @@ const MainPage = () => {
 
 
             
-            <div className='flex flex-col h-screen justify-center items-center sm:basis-2/3 sm:h-screen bg-white'>
+            <div className='flex flex-col h-[550px]  justify-center items-center sm:basis-2/3 sm:h-screen bg-white'>
 
 
                 <div className='mt-[120px] w-[380px] h-screen text-start  font-mono tracking-widest flex flex-col  '>
